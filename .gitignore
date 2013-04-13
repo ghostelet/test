@@ -1,5 +1,12 @@
+## Visual Studio ignore
+
+## Build folders
+
 [Bb]in/*
 [Oo]bj/*
+
+## User files
+
 *_ReSharper*
 *.suo
 *.user
